@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(80, 80, 177);
+}
+div {
+  color: lawngreen;
+}
+.col {
+  height: 400px;
+  width: 500px;
+  background-color: white;
+  padding: 50px;
+  margin: 10px;
+}
+
+#midColumn {
+  align-content: center;
+}
