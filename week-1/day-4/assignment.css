@@ -1,17 +1,36 @@
 body {
-  background-color: rgb(80, 80, 177);
+  background-image: url("images/woodImage.png");
+  background-size: cover;
 }
-div {
-  color: lawngreen;
+span {
+  float: left;
 }
 .col {
-  height: 400px;
-  width: 500px;
-  background-color: white;
-  padding: 50px;
+  background-color: maroon;
+  color: white;
+  height: 800px;
+  width: 350px;
+  padding: 5px;
+  margin: 5px;
+  border: 10px solid rgb(70, 8, 8);
+}
+img {
+  align-content: center;
+  padding: 20px;
   margin: 10px;
 }
-
-#midColumn {
-  align-content: center;
+h1,
+h2,
+h4 {
+  text-align: center;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+#leftPic {
+  padding-top: 100px;
 }
