@@ -1,0 +1,26 @@
+body {
+  background-color: grey;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* height: 100vh; */
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.colA {
+  width: 1000px;
+  border: 5px solid green;
+  background-color: darkgreen;
+  color: white;
+  margin: 10px;
+}
+.colB {
+  border: 5px solid red;
+  background-color: darkred;
+  margin: 10px;
+}
