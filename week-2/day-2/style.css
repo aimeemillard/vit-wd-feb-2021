@@ -2,6 +2,7 @@ img {
   min-width: 500px;
   height: 300px;
 }
+
 #window {
   width: 500px;
   height: 300px;
@@ -9,6 +10,7 @@ img {
   margin: 0 auto;
   overflow: hidden;
 }
+
 @keyframes carousel {
   from {
     transform: translateX(0px);
